@@ -1,0 +1,15 @@
+.skillcontainer {
+  display: flex;
+  flex-direction: column;
+
+  width: 455px;
+  height: 70px;
+}
+.skillBox {
+  height: 60%;
+}
+
+.error{
+  color:red;
+  margin-top: 5px;
+}

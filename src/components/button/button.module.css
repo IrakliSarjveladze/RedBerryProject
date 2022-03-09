@@ -1,0 +1,30 @@
+.button {
+  font-size: 24px;
+  color: #ffffff;
+}
+.buttonRounded {
+  position: relative;
+  background-color: red;
+  width: 395px;
+  height: 79px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonSquare {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fe3b1f;
+  margin-left: 256px;
+  margin-bottom: 5.2%;
+  width: 195.57px;
+  height: 17.14px;
+  font-size: 12px;
+}
+
+.buttonText {
+  text-decoration: underline;
+}

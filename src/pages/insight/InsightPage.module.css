@@ -1,0 +1,6 @@
+.InputText {
+  margin-left: 75px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

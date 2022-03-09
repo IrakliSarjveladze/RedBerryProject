@@ -1,0 +1,20 @@
+.container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+.Button {
+  display: flex;
+  align-items: center;
+  width: 395px;
+  height: 79px;
+  left: 758px;
+  top: 458px;
+}
+.goback {
+  color: #ffffff;
+  font-size: 28px;
+  margin-left: 900px;
+  margin-top: 482px;
+}

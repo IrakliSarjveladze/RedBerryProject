@@ -1,0 +1,10 @@
+.divMail {
+  /* margin-top: 00px; */
+}
+.divData {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}

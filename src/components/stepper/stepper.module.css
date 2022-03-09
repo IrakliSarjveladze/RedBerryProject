@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3.31%;
+
+  gap: 18px;
+}
+
+.dot {
+  width: 18px;
+  height: 18px;
+  border: 1px solid red;
+  border-radius: 50%;
+}
+
+.active {
+  background-color: red;
+}
+.img {
+  padding-top: 0px;
+  width: 19px;
+  height: 19px;
+}

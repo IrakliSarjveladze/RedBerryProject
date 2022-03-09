@@ -1,0 +1,20 @@
+.radio {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  width: 645px;
+  padding-left: 9%;
+}
+.radiolane {
+  display: flex;
+  flex-direction: row;
+  padding-top: 1.54%;
+}
+.descriptiontitle {
+  display: flex;
+  justify-content: center;
+  padding-left: 0.4%;
+  margin-top: -0.3%;
+  height: 1.9%;
+}
